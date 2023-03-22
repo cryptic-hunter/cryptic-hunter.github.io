@@ -18,21 +18,15 @@ description: Sample Testing blog with random content on Offensive Security, Adve
 
 ## Summary:
 
-You can pick as item to see how to apply in markdown.
+This is a testing summary of the content that is present in this blog. 
 
-#### Especial Elements
-- [Evidence](#evidence)
-- [Side-by-Side](#side-by-side)
-- [Star](#star)
-- [Especial Breaker](#especial-breaker)
-- [Spoiler](#spoiler)
+#### Reconnaisance
+This section contains the reconnaisance that was performed. Below are the steps mentioned.
+- Recon Step 1
+- Recon Step 2
 
-#### External Elements
-- [Gist](#gist)
-- [Codepen](#codepen)
-- [Slideshare](#slideshare)
-- [Videos](#videos)
-
+#### Random Section
+- This is a random section which might be present or might not be present. Applicable just for demonstration purposes.
 ---
 
 ## Evidence
