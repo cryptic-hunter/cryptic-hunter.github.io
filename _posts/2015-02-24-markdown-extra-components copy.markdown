@@ -1,17 +1,16 @@
 ---
-title: "Sample Blog Post"
+title: "Markdown Extra Components"
 layout: post
-date: 2023-03-22 12:33
-image: 
+date: 2016-02-24 22:48
+image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- Offensive Security
-- Adversary Simulation
-- Red Team
-- AV/EDR Evasion
+- markdown
+- components
+- extra
 category: blog
-author: Karan Raheja
-description: A small description of what all the blog post will contain.
+author: jamesfoster
+description: Markdown summary with different options
 ---
 
 ## Summary:
