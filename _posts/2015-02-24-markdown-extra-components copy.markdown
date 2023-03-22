@@ -1,8 +1,8 @@
 ---
 title: "Sample Testing Blog"
 layout: post
-date: 2023-03-22 13:15
-image: /assets/images/markdown.jpg
+date: 2016-02-24 22:48
+image: 
 headerImage: false
 tag:
 - markdown
