@@ -12,8 +12,8 @@ tag:
 - Malware Development
 - AV/EDR Evasion
 category: blog
-author: jamesfoster
-description: Markdown summary with different options
+author: Karan Raheja
+description: Sample Testing blog with random content on Offensive Security, Adversary Simulation, Red Teaming and Malware Development.
 ---
 
 ## Summary:
