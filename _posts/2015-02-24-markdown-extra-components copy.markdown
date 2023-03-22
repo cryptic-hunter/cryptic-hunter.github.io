@@ -5,9 +5,12 @@ date: 2023-03-21 15:30
 image: 
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- Offensive Security
+- Adversary Simulation
+- Red Teaming
+- Web App Security
+- Malware Development
+- AV/EDR Evasion
 category: blog
 author: jamesfoster
 description: Markdown summary with different options
