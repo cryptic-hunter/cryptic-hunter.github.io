@@ -1,47 +1,45 @@
 ---
-title: "This is my first sample blog post"
+title: "Markdown Extra Components"
 layout: post
-date: 2023-03-22 11:38
-image: 
+date: 2016-02-24 22:48
+image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- offensive security
-- red team
-- malware development
-- AV/EDR Evasion
-star: false
+- markdown
+- components
+- extra
 category: blog
-author: Karan Raheja
-description: This is my first sample blog post on this website. Just want to show a one liner on this.
+author: jamesfoster
+description: Markdown summary with different options
 ---
 
 ## Summary:
 
-This is a brief summary of what I want to see in the blog. This blog contains multiple things about offensive security related stuff.
+You can pick as item to see how to apply in markdown.
 
-<!-- #### Especial Elements
+#### Especial Elements
 - [Evidence](#evidence)
 - [Side-by-Side](#side-by-side)
 - [Star](#star)
 - [Especial Breaker](#especial-breaker)
-- [Spoiler](#spoiler) -->
+- [Spoiler](#spoiler)
 
-<!-- #### External Elements
+#### External Elements
 - [Gist](#gist)
 - [Codepen](#codepen)
 - [Slideshare](#slideshare)
-- [Videos](#videos) -->
+- [Videos](#videos)
 
 ---
 
-## Initial Thoughts
+## Evidence
 
+You can try the evidence!
 
-
-<span class="evidence">This should be the starting of the blog post.</span>
+<span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span>
 
 {% highlight html %}
-<span class="evidence">What the blog contains and what this blog will teach by the end of it.</span>
+<span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span>
 {% endhighlight %}
 
 ---
