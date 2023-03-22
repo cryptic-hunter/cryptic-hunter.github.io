@@ -2,13 +2,14 @@
 title: "This is my first sample blog post"
 layout: post
 date: 2023-03-22 11:38
-#image: /assets/images/markdown.jpg
+image: 
 headerImage: false
 tag:
 - offensive security
 - red team
 - malware development
 - AV/EDR Evasion
+star: false
 category: blog
 author: Karan Raheja
 description: This is my first sample blog post on this website. Just want to show a one liner on this.
