@@ -35,11 +35,13 @@ permalink: /:title/
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: mytwitter
+twitter: https://twitter.com/5h4d0w_hun73r1
 #instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+linkedin: https://www.linkedin.com/in/karan-raheja-796015110/
+github: https://github.com/cryptic-hunter
+email: karanraheja24@gmail.com
+tryhackme: https://www.google.com
+hackthebox: https://www.google.com
 
 authors:
   KaranRaheja:
