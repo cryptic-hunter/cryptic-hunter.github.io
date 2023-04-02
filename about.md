@@ -10,14 +10,14 @@ layout: page
 <p>When I am not working on any Infosec Stuff, I like to watch movies, explore some good food and just sit at some peaceful place away from hassles.</p>
 
 <h2>Honourable Mentions</h2>
-<p>There have been some folks who have supported me, been with my through my different phases of life, I would just like to mention them here as a mark of respect for whatever they've done for me, whatever support they offered me, helped me learn a different variety of stuff and shaping me in a manner I am today.
+<p>There have been some folks who have supported me, been with my through my different phases of life, I would just like to mention them here as a mark of respect for everything they've done for me, all the support they offered me, helped me learn a different variety of stuff and shaping me in a manner I am today.
 <p>
 <ul>
-	<li>Jatin Sethi Sir</li>
+	<li><a href="https://www.linkedin.com/in/sethijatin">Jatin</a> Sir</li>
 	<li><a href="https://twitter.com/ka3hk">Ashwath</a> Sir</li>
 	<li><a href="https://twitter.com/IndiShell1046">Manish Kishan Tanwar</a> Sir</li>
 	<li><a href="https://twitter.com/2mikU">Mainul Hasan</a> Sir</li>
-	<li>Simardeep Singh</li>
+	<li><a href="https://www.simardeepsingh.tech/">Simardeep Singh</a></li>
 	<li>and Of Course, <b>My Wife aka My Best Friend</b></li>
 </ul>
 
