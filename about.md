@@ -6,10 +6,21 @@ layout: page
 
 <p>The principle that I live on is "Don't let any day become a Null day in your life where neither you learn anything nor you have fun doing something you love, Be consistent and Be persistent". I have been a part of this InfoSec community for a considerable time now. During all this time, I have acquired a variety of skills, as mentioned in the section below. I was inspired into Cyber Security by a movie "BlackHat" starring Chris Hemsworth that I saw in 2016. All of that felt so cool, and that's what got me going. I started learning things from youtube and can't stress on how much good of a resource youtube is for learning anything. Getting into InfoSec doesn't require those fancy certifications or any money investment into any sort of trainings. All they do is to get you through the HR filters(psst. OSCP, don't look at me). But yeah, on a different note, Certifications and Trainings do help you in the later stages to get some more advanced tradecraft of the art.</p>
 
-<p>I started this blog because I wanted to contribute to the security community and this felt to be the easiest way to do so. My main area of work revolves around Product Security since that is what I do as a part of my Day job, but I  also like to play around on platforms like <a href="https://tryhackme.com">TryHackMe</a> and <a href="https://hackthebox.com">HackTheBox</a>. I am learning AV/EDR Evasion and Malware Development side by side and I aspire to land in the Adversary Simulation field in the future. Though not very strong on automation front traditionally, I am working on improving my Art of scripting and the proof of same would be visible on my Github profile, do check it out.</p>
+<p>I started this blog because I wanted to contribute to the security community and this felt to be the easiest way to do so. My main area of work revolves around Product Security since that is what I do as a part of my Day job, but I  also like to play around on platforms like <a href="https://tryhackme.com/p/r0075cr1p7">TryHackMe</a> and <a href="https://app.hackthebox.com/profile/1482">HackTheBox</a>. I am learning AV/EDR Evasion and Malware Development side by side and I aspire to land in the Adversary Simulation field in the future. Though not very strong on automation front traditionally, I am working on improving my Art of scripting and the proof of same would be visible on my Github profile, do check it out.</p>
 <p>When I am not working on any Infosec Stuff, I like to watch movies, explore some good food and just sit at some peaceful place away from hassles.</p>
 
-<h3>Honourable Mentions</h3>
+<h2>Honourable Mentions</h2>
+<p>There have been some folks who have supported me, been with my through my different phases of life, I would just like to mention them here as a mark of respect for whatever they've done for me, whatever support they offered me, helped me learn a different variety of stuff and shaping me in a manner I am today.
+<p>
+<ul>
+	<li>Jatin Sethi Sir</li>
+	<li>Ashwath Sir</li>
+	<li>Manish Kishan Tanwar Sir</li>
+	<li>Mainul Hasan Sir</li>
+	<li>Simardeep Singh</li>
+	<li>and Of Course, <b>My Wife aka My Best Friend</b></li>
+</ul>
+
 
 <h2>Skills</h2>
 
