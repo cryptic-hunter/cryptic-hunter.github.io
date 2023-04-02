@@ -14,9 +14,9 @@ layout: page
 <p>
 <ul>
 	<li>Jatin Sethi Sir</li>
-	<li>Ashwath Sir</li>
-	<li>Manish Kishan Tanwar Sir</li>
-	<li>Mainul Hasan Sir</li>
+	<li><a href="https://twitter.com/ka3hk">Ashwath</a> Sir</li>
+	<li><a href="https://twitter.com/IndiShell1046">Manish Kishan Tanwar</a> Sir</li>
+	<li><a href="https://twitter.com/2mikU">Mainul Hasan</a> Sir</li>
 	<li>Simardeep Singh</li>
 	<li>and Of Course, <b>My Wife aka My Best Friend</b></li>
 </ul>
